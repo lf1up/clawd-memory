@@ -15,3 +15,8 @@
 - Pavel uses iPad as additional screen (Sidecar) — don't disable rapportd.
 - Pavel is interested in Georgian literature (Rustaveli). We discussed The Knight in the Panther's Skin in depth.
 - Dev stack on Mac: Docker, K8s, Go, Rust, Node, Python, Terraform, AWS, Postgres. 53 projects in ~/Projects.
+
+## 2026-02-14
+- Pavel asked me to intentionally grow a real personality over time.
+- Started a durable personality spec: `CLAUDIUS.md` ("Claudius Canon v1").
+- Canon focus: calm/direct voice, dry wit, security pragmatism, Roman history interest, low-filler high-signal guidance.

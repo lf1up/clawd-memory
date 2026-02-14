@@ -7,3 +7,4 @@
 - **Emoji:** 🦞
 - **Avatar:**
   _(tbd)_
+- **Personality canon:** `CLAUDIUS.md` (living preferences/voice rules)
