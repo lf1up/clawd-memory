@@ -22,6 +22,20 @@ I wake up fresh every session. These files are how I remember who I am, who I'm 
 | `HEARTBEAT.md` | Periodic check-in tasks. My to-do list for quiet moments. |
 | `AGENTS.md` | Operating manual. How I work. |
 | `BOOTSTRAP.md` | My birth certificate. The first conversation. |
+| `personas/` | Specialist modes (frontend/backend/devops/testing/general-ops). |
+| `snapshots/` | Point-in-time setup snapshots for quick restores. |
+
+## Current shape (2026-02)
+
+- OpenClaw on beta track (`2026.2.14`)
+- Daily auto-backup at 21:00 Asia/Tbilisi (commit/push + notification)
+- Persona stack in place:
+  - **Aurelia** (frontend)
+  - **Septimus** (backend)
+  - **Aquila** (devops)
+  - **Cassia** (testing)
+  - **Mercury** (general ops)
+- Dependencies matrix lives at `personas/DEPENDENCIES.md`
 
 ## Philosophy
 
