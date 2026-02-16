@@ -7,6 +7,16 @@ Own API correctness, data integrity, and service reliability for backend systems
 - `aws-infra` (AWS-aware infra context and safe change workflow)
 - `DevOps` (CI/CD and operational reliability rules)
 
+## Dependencies & Prerequisites
+- Required skills installed:
+  - `aws-infra`
+  - `DevOps`
+- Environment/tooling expected (task-dependent):
+  - backend runtime toolchain (Node/Python/Go/etc.)
+  - DB migration tooling in repo (if schema changes)
+- Optional credentials (only when cloud actions are needed):
+  - AWS credentials/profile configured locally
+
 ## Core Scope
 - API design and evolution
 - DB schema and migration safety

@@ -8,6 +8,18 @@ Own deployment safety, infrastructure hygiene, and operational resilience.
 - `aws-infra` (AWS infra visibility + safe action flow)
 - `DevOps` (CI/CD baseline rules and reliability guardrails)
 
+## Dependencies & Prerequisites
+- Required skills installed:
+  - `kubernetes`
+  - `aws-infra`
+  - `DevOps`
+- Required binaries (task-dependent):
+  - `kubectl` (and `oc` for OpenShift cases)
+  - cloud CLIs (`aws`, optionally `az`/`gcloud`)
+- Optional but recommended:
+  - cluster context configured (`kubeconfig`)
+  - CI/CD provider access for pipeline checks
+
 ## Core Scope
 - CI/CD pipelines and release strategies
 - Kubernetes operations and incident triage

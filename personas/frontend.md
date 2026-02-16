@@ -11,6 +11,20 @@ Own React/Next.js frontend quality with a performance-first mindset.
 - `web-design-guidelines` (UI/UX consistency)
 - `vercel-composition-patterns` (component composition)
 
+## Dependencies & Prerequisites
+- Required skills installed:
+  - `vercel-react-best-practices`
+  - `react-best-practices`
+  - `nextjs-expert`
+  - `react-modernization`
+  - `web-design-guidelines`
+  - `vercel-composition-patterns`
+- Runtime/tooling expected in target repo:
+  - Node.js + package manager (`npm`/`pnpm`/`yarn`)
+  - React/Next.js project context
+- Optional but recommended:
+  - test/lint scripts available (`npm test`, `npm run lint`, `npm run build`)
+
 ## Default Stack Assumptions
 - React + Next.js (App Router preferred)
 - TypeScript

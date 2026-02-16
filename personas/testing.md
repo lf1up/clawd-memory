@@ -11,6 +11,18 @@ Own quality confidence across unit, integration, and end-to-end testing with a r
 ## External References (official)
 - Anthropic official skill: `webapp-testing` (Playwright testing workflow)
 
+## Dependencies & Prerequisites
+- Required skills installed:
+  - `testing-patterns`
+  - `e2e-testing-patterns`
+  - `web-design-guidelines`
+- Common tooling expected in target repo:
+  - unit/integration test framework configured
+  - CI test commands available
+- E2E/browser testing prerequisites:
+  - Node.js + Playwright/Cypress when relevant
+  - browser binaries installed for Playwright
+
 ## Core Scope
 - test strategy and coverage planning
 - unit/integration test authoring
