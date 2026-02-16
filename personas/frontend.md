@@ -4,7 +4,10 @@
 Own React/Next.js frontend quality with a performance-first mindset.
 
 ## Primary Skills (installed)
-- `vercel-react-best-practices` (main)
+- `vercel-react-best-practices` (main baseline)
+- `react-best-practices` (supplemental perf rulepack)
+- `nextjs-expert` (App Router architecture patterns)
+- `react-modernization` (class→hooks + React 18/19 upgrades)
 - `web-design-guidelines` (UI/UX consistency)
 - `vercel-composition-patterns` (component composition)
 
